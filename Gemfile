@@ -48,4 +48,4 @@ end
 #gem 'pg'
 
 gem 'puma'
-
+gem'pg'
