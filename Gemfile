@@ -46,3 +46,6 @@ group :development do
   gem 'spring'
 end
 #gem 'pg'
+
+gem 'puma'
+gem'pg'
